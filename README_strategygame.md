@@ -14,4 +14,4 @@
 ## Controles:
 Click derecho abre selector de torretas.
 
-Click izquierdo selecciona torreta.
+Click izquierdo selecciona y coloca torreta.
