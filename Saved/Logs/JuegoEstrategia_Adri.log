@@ -5517,3 +5517,4 @@ Make sure 'UW_BackButton1_C' has been compiled for  Get DMG_Text
 [2023.11.22-18.39.57:720][194]LogContentValidation: Display: Validating /Game/Blueprints/Towers/BP_Path.BP_Path_C /Game/Levels/Level_3.Level_3:PersistentLevel.BP_Path_C_UAID_D45D64252655FDBC01_1542745219
 [2023.11.22-18.39.57:720][194]LogContentValidation: Display: Validating /Game/Blueprints/Towers/BP_Path.BP_Path_C /Game/Levels/Level_3.Level_3:PersistentLevel.BP_Path_C_UAID_D45D64252655A8BB01_1839670199
 [2023.11.22-18.39.57:720][194]LogContentValidation: Display: Validating /Game/Blueprints/Towers/BP_Path.BP_Path_C /Game/Levels/Level_3.Level_3:PersistentLevel.BP_Path_C_UAID_D45D64252655FDBC01_1813745222
+[2023.11.22-18.53.00:472][376]LogDerivedDataCache: C:/Users/IES SABADELL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.051 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 1050 files in 1740 folders with total size 55 MiB.
