@@ -2,7 +2,7 @@
 ## Risketos Básics:
 - [x] Capacitat d’elecció, per exemple diferents torretes.
 - [x] El HUD es crea i s’emplena per BP.
-- [x] Ús d’esdeveniments i dispatchers, tot ha d’estar desacoplat.
+- [ ] Ús d’esdeveniments i dispatchers, tot ha d’estar desacoplat.
 - [x] Enemics o objectius a on atacar i en fer-ho que morin.
 - [x] Ús d’un actor component o Interfície.
 
